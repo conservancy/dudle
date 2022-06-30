@@ -1,6 +1,6 @@
 # Give Up GitHub
 
-This project has given up GitHub.  ([See Software Freedom Conservancy's <cite>Give Up GitHub</cite> site for details](https://GiveUpGitHub.org).)
+This project has given up GitHub.  ([See Software Freedom Conservancy's *Give Up GitHub* site for details](https://GiveUpGitHub.org).)
 
 The project that was originally here was just an modified fork of the [dudle project](https://dud-poll.inf.tu-dresden.de/).
 
