@@ -1,4 +1,4 @@
-= Give Up On GitHub =
+# Give Up On GitHub
 
 This project has given up on GitHub.  ([See Software Freedom Conservancy's <cite>Give Up On GitHub</cite> site for details](https://GiveUpGitHub.org).)
 
